@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-palas-navbar/static/css/main.eb06655b.css",
+    "main.js": "/ws101-palas-navbar/static/js/main.f8728b15.js",
+    "index.html": "/ws101-palas-navbar/index.html",
+    "main.eb06655b.css.map": "/ws101-palas-navbar/static/css/main.eb06655b.css.map",
+    "main.f8728b15.js.map": "/ws101-palas-navbar/static/js/main.f8728b15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb06655b.css",
+    "static/js/main.f8728b15.js"
+  ]
+}
